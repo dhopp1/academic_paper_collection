@@ -1,0 +1,1 @@
+# store scopus api key in creds.txt fileapi_key = open('creds.txt', 'r').read()
